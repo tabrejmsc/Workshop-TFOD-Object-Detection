@@ -5,7 +5,7 @@
 
 # 1. Install Anaconda
 https://www.anaconda.com/products/individual
-# 2. Install Pycharm
+# 2. Install PyCharm
 https://www.jetbrains.com/pycharm/download/#section=windows
 # 3. Download This repository (TFOD)
 https://github.com/tensorflow/models/tree/v1.13.0
