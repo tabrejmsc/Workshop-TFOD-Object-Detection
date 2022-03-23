@@ -15,5 +15,7 @@ http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_
 https://drive.google.com/file/d/12F5oGAuQg7qBM_267TCMt_rlorV-M7gf/view
 # 6. Download labelImg Software for Annotation
 https://tzutalin.github.io/labelImg/
+# Slide (Tutorial)
+https://github.com/tabrejmsc/Workshop-TFOD-Object-Detection/blob/main/TFOD-DeepLearning.pdf
 # Reference
 https://c17hawke.github.io/tfod-setup
