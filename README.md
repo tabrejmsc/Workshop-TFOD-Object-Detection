@@ -21,3 +21,5 @@ https://github.com/tabrejmsc/Workshop-TFOD-Object-Detection/blob/main/TFOD-DeepL
 https://c17hawke.github.io/tfod-setup
 # Command Link
 https://collabedit.com/mf57n
+# lecture link
+https://fcitr.rb.kau.edu.sa/Pages-2703202201-en.aspx
